@@ -1,7 +1,7 @@
 with open("sample-file.txt", "r") as f:
     # Read the whole file into a string
     text = f.read()
-    # Split the text into raw tokens based on whitespace
+    # Split the text into raw tokens based on whitespace.
     words = text.split()
 import string
 cleaned_words = []

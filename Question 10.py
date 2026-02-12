@@ -1,6 +1,6 @@
 def find_lines_containing(filename, keyword):
     results = []  # Store matching lines
-    # Open file for reading
+    # Open file for reading.
     with open(filename, "r", encoding="utf-8") as f:
         # Go through each line (start counting from 1)
         for line_number, line_text in enumerate(f, 1):
