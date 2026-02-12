@@ -27,11 +27,10 @@ Question 7.py
 Scrapes a Wikipedia page and prints the page title and first paragraph (with at least 50 characters).
 
 Question 8.py  
-Extracts all section headings (<h2>) from a Wikipedia page and saves them into headings.txt.
+Extracts all section headings from a Wikipedia page and saves them into headings.txt.
 
-Question 9.py  
-Extracts the first table with at least 3 rows from a Wikipedia page and saves it as wiki_table.csv. 
+Question 9.py
+Extracts the first table with at least 3 rows from a Wikipedia page and saves it as wiki_table.csv.
 
-Question 10.py  
+Question 10.py
 Defines a function to find lines containing a given keyword and prints the number of matches and the first 3 results.
-
